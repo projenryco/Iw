@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://img.freepik.com/fotos-gratis/fundo-de-tecnologia-do-circuito-da-placa-mae-em-gradiente-azul_53876-124645.jpg?w=2000);
+}
+
+.botao{
+    width: 100px;
+    height: 40px;   
+    background-color: rgba(128,128,128, 0.5);
+    margin: auto; 
+    padding: 1.5%;
+    border-radius: 25px;
+}
+.botao p{
+    text-indent: 0;
+    text-align: center;
+}
+.botao a:link, .botao a:visited{
+    color: black;
+
+}
+
+.botao:hover{
+    background-color:#00FFFF;
+   
+   
+}
+    p{
+        font-size: 1.3em;
+        color: cyan;
+        font-weight: bold;
+        text-indent: 50px;
+        text-align: justify;
+        line-height: 1.5;
+        font-family: 'Comfortaa',cursive;
+    }
