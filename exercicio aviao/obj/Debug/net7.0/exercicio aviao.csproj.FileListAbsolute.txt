@@ -1,5 +1,0 @@
-C:\Users\LAB4\Desktop\exercicio aviao\obj\Debug\net7.0\exercicio aviao.csproj.AssemblyReference.cache
-C:\Users\LAB4\Desktop\exercicio aviao\obj\Debug\net7.0\exercicio aviao.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\LAB4\Desktop\exercicio aviao\obj\Debug\net7.0\exercicio aviao.AssemblyInfoInputs.cache
-C:\Users\LAB4\Desktop\exercicio aviao\obj\Debug\net7.0\exercicio aviao.AssemblyInfo.cs
-C:\Users\LAB4\Desktop\exercicio aviao\obj\Debug\net7.0\exercicio aviao.csproj.CoreCompileInputs.cache
